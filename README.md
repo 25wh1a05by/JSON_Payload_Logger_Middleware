@@ -13,3 +13,13 @@ Displays 404 Not Found for other routes.
 Node.js
 Express.js
 JavaScript
+
+# 5. How to Run
+Install Node.js.
+Open the project folder in VS Code.
+Open the terminal.
+Install Express.js using:
+6. Open http://localhost:3000/ in your browser.
+# 6. Testing the Program
+Send a POST request to:
+http://localhost:3000/feedback
