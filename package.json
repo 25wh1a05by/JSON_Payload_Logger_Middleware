@@ -1,0 +1,13 @@
+
+{
+  "name": "json-payload-logger",
+  "version": "1.0.0",
+  "description": "JSON Payload Logger Middleware using Express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
